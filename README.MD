@@ -2,7 +2,7 @@
 
 # A weather Forecast api deployed on an Azure Container Instance
 
-Deployed with Terraform
+Deployed with Terraform and docker
 
 * Can be accessed at:  http://tkeweatherapi.eastus.azurecontainer.io/weatherforecast
 

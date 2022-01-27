@@ -19,8 +19,8 @@ resource "azurerm_container_group" "weatherapi_group" {
   container {
     name   = "weatherapi"
     image = "09035077346/weatherapi:1.0.0"
-    cpu    = 1
-    memory = 1
+    cpu    = 0.5
+    memory = 0.5
 
     ports {
       port     = 80
