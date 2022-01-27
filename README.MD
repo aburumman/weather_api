@@ -6,6 +6,7 @@ Deployed with Terraform and docker
 
 * Can be accessed at:  http://tkeweatherapi.eastus.azurecontainer.io/weatherforecast
 
-* or at http://52.191.22.65/weatherforecast
+* or at http://52.224.195.112/weatherforecast
+
 
 ![weather_api_view](image/weather_forecast.png)
