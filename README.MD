@@ -1,6 +1,6 @@
 ### Weather Forecast Api
 
-#A weather Forecast api delpoy on an Azure Container Instance
+# A weather Forecast api deployed on an Azure Container Instance
 
 Deployed with Terraform
 
@@ -8,4 +8,4 @@ Deployed with Terraform
 
 * or at http://52.191.22.65/weatherforecast
 
-![weather_api_view](image\weather_forecast.png)
+![weather_api_view](C:\Users\Mustapha - TKE\Documents\weatherapi\image\weather_forecast.png)
